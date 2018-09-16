@@ -1,0 +1,32 @@
+_repo: World-in-a-Bottle_51824
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Experiments -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: World in a Bottle
+url: http://www.gutenberg.org/ebooks/51824
